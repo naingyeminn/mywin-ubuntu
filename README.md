@@ -1,4 +1,4 @@
-MyWin Keyboards Installer
+MyWin Keyboard Installer
 =========================
 
 ##Introduction
