@@ -7,7 +7,7 @@ MyWin Keyboards Installer
 
 ##Installation
 
-- Type the following command one after another.
+- Type the following commands one after another.
 
 ```
 $ git clone https://github.com/naingyeminn/mywin-ubuntu.git
