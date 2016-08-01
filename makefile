@@ -1,4 +1,4 @@
-install: uninstall
+install:
 	wget http://packages.sil.org/sil-repository.deb -O sil-repository.deb
 	dpkg -i sil-repository.deb
 	apt-get update
