@@ -22,15 +22,15 @@ Now you can add the keyboard as follow.
 
 - Click on **Text Entry Settings...**
 
-![Text Entry Setting](https://dl.dropboxusercontent.com/u/26716001/Photos/MyWin/ubuntu01.png)
+![Text Entry Setting](https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/Photos/MyWin/ubuntu01.png)
 
 - Click on **"+"** button and search **my-win** input. You will see **my-Win 2.3.3 Unicode 5.2**.
 
-![input1](https://dl.dropboxusercontent.com/u/26716001/Photos/MyWin/ubuntu02.png)
+![input1](https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/Photos/MyWin/ubuntu02.png)
 
 - Click on **Add**.
 
-![input2](https://dl.dropboxusercontent.com/u/26716001/Photos/MyWin/ubuntu03.png)
+![input2](https://raw.githubusercontent.com/naingyeminn/nym_blog_data/master/Photos/MyWin/ubuntu03.png)
 
 - Now you can change keyboard layout by pressing (**Super + Space**) key.
 
